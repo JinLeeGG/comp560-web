@@ -11,4 +11,5 @@ This is a list of activities that are recommended to be completed as part of joi
 * Download and familiarize yourself with Andrej Karpathy's [nanoGPT](https://github.com/karpathy/nanoGPT). If you have questions or need help, post to the [nanoGPT channel](https://teams.microsoft.com/l/channel/19%3Adeeefd292f9d470d93d60bad64e6ab7e%40thread.tacv2/nanoGPT?groupId=327c5cf0-93db-45ce-be36-d648004b666f&tenantId=6232b055-76b9-4c13-9b88-b562ae7db6fb).
   1. Figure out how to train and sample from the _character-level_ Shakespeare model.
   2. Create a new character-level model that is identical to the character-level Shakespeare model but using a different corpus of text. 
+* Create a new private channel in our Team to act as your _activity log_. See the separate [Activity Logs page](activity-logs.md) for details.
 * ... under construction ... more to be added ...

@@ -3,3 +3,4 @@
 ## Liberating chain-of-thought reasoning in large language models
 
 * [Onboarding activities](onboarding.md)
+* [Activity logs](activity-logs.md)
